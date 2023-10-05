@@ -1,5 +1,5 @@
 # builder image
-FROM node:17 as builder
+FROM node:18 as builder
 
 WORKDIR /app
 COPY package.json yarn.lock ./
