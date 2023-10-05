@@ -34,5 +34,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           context: .
-          tags: quay.io/muhlba91/fh-burgenland-bswe-3b-docusaurus:{{ github.sha }}
+          tags: quay.io/muhlba91/fh-burgenland-bswe-3b-docusaurus:${{ github.sha }}
           push: true
