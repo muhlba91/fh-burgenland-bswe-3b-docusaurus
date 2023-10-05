@@ -1,6 +1,6 @@
 ---
 id: greeting
-title: Docusaurus Greeting
+title: My New Greeting
 description: Create a doc page with rich content.
 tags:
   - greeting
