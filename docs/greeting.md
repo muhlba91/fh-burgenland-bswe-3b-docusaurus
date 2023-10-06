@@ -1,6 +1,6 @@
 ---
 id: greeting
-title: My New Greeting
+title: My New Greeting 1
 description: Create a doc page with rich content.
 tags:
   - greeting
